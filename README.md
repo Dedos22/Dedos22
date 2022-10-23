@@ -50,7 +50,7 @@
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
-
+<br>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dedos22&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 <br />
