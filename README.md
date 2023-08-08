@@ -34,7 +34,7 @@
 [gmail]: mailto:demetduz2696@gmail.com
 
 ### 🔧 Languages and Tools:
-<a href="https://www.php.net/"><img align="left" width="50" src="http://www.serpito.com/wp-content/uploads/basicphp.jpg" /></a>
+<a href="https://www.php.net/"><img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" /></a>
 <a href=" "><img align="left" width="50" src="https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/images/css3.png" /></a>
 <a href="https://www.php.net/"><img align="left" width="50" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/11/Sublime-Text-3.png" /></a>
 <a href=""><img align="left" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaV-JpiBgFRovDc6CGQdWFcGYhUITSTKHH5Q&usqp=CAU" /></a>
